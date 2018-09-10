@@ -1,7 +1,7 @@
 # Rock paper scissors
 # Python program for the popular game rock, paper, scissors
 # Anatoli Penev
-# 15.12.1017
+# 15.12.2017
 
 
 def main():
