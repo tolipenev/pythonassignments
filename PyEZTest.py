@@ -8,7 +8,7 @@ try:
     # Create device object
     mySRX_password = base64.b64decode(myPassword.getPassword())
     print('Testing if device can be created')
-    myDev = Device(host='192.168.1.1', user='root', password=Toli90)
+    myDev = Device(host='192.168.1.1', user='root', password=XXX)
     print('Okay, device is created. Now testing reachable...')
     myDev.auto_probe = 3        # Test for 3 seconds if device is reachable
     print('Okay, device is reachable. Now trying to connect...')
